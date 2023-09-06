@@ -1,3 +1,8 @@
+#     此仓库权归原作者所有，
+#     本人仅作保存使用，
+#     如有侵权，联系可删。
+
+
 <div align=center>
 
 # Aliyun Auto Signin
